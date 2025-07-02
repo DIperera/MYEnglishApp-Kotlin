@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MYEnglishApp"
         tools:targetApi="31">
-<!--if we create a new separate activity we need to mention as following-->
+<!--if we create a new separate activity we need to mention as below-->
         <activity
             android:name=".activities.GrammarActivity"
             android:exported="false"
